@@ -1,0 +1,17 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.exe
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.deps.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.runtimeconfig.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.Form1.resources
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.csproj.GenerateResource.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.sourcelink.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\obj\Debug\net10.0-windows\refint\CafeStatusDemo.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.genruntimeconfig.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT4\CafeStatusDemo\obj\Debug\net10.0-windows\ref\CafeStatusDemo.dll
