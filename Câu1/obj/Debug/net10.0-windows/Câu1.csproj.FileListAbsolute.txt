@@ -1,0 +1,17 @@
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\obj\Debug\net10.0-windows\Câu1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\obj\Debug\net10.0-windows\Câu1.AssemblyInfoInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\obj\Debug\net10.0-windows\Câu1.AssemblyInfo.cs
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\obj\Debug\net10.0-windows\Câu1.csproj.CoreCompileInputs.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\obj\Debug\net10.0-windows\Câu1.sourcelink.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\bin\Debug\net10.0-windows\Câu1.exe
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\bin\Debug\net10.0-windows\Câu1.deps.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\bin\Debug\net10.0-windows\Câu1.runtimeconfig.json
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\bin\Debug\net10.0-windows\Câu1.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\bin\Debug\net10.0-windows\Câu1.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\obj\Debug\net10.0-windows\Câu1.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\obj\Debug\net10.0-windows\refint\Câu1.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\obj\Debug\net10.0-windows\Câu1.pdb
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\obj\Debug\net10.0-windows\Câu1.genruntimeconfig.cache
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\obj\Debug\net10.0-windows\ref\Câu1.dll
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\obj\Debug\net10.0-windows\Câu1.FormBanHang.resources
+C:\Users\KHOA\source\repos\LapTrinhTrucQuan\BTLT5\Câu1\obj\Debug\net10.0-windows\Câu1.csproj.GenerateResource.cache
